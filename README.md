@@ -1,10 +1,6 @@
 # Wedding-Simulator
-A game made by Peiyang Qin, Xueyi Wang, Xinru Xie, Haoqing Yan
-# Final Project
+*A game made by Peiyang Qin, Xueyi Wang, Xinru Xie, Haoqing Yan*
 
-**Peiyang Qin 23014796**
-
-**Group Members:** Peiyang Qin, Xueyi Wang, Xinru Xie, Haoqing Yan
 
 ![游戏logo](https://git.arts.ac.uk/23014796/Responsive-Environments-Blog-2024/assets/1264/326b04a8-cec4-4ef4-b0d8-ab5ef6df38d5)
 
