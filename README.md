@@ -1,8 +1,9 @@
 # Wedding-Simulator
 *A game made by Peiyang Qin, Xueyi Wang, Xinru Xie, Haoqing Yan*
 
+![游戏logo](https://github.com/user-attachments/assets/dab80e32-879c-41d0-9028-577fece7dac1)
 
-![游戏logo](https://git.arts.ac.uk/23014796/Responsive-Environments-Blog-2024/assets/1264/326b04a8-cec4-4ef4-b0d8-ab5ef6df38d5)
+
 
 ---
 
@@ -48,7 +49,7 @@ Interviews, Game Design, Player tests, Documentations, Presentation
 
 **Demo Video (Please Unmute)**
 
-https://git.arts.ac.uk/24009317/Responsive-Environments-Blog-2024/assets/1266/1c1b75bf-2013-4db4-8bb4-8c897660a5a9
+
 
 **Images and GIF**
 
