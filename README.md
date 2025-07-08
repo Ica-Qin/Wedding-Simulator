@@ -54,9 +54,13 @@ Interviews, Game Design, Player tests, Documentations, Presentation
 **Images and GIF**
 
 ![opening](https://git.arts.ac.uk/23014796/Responsive-Environments-Blog-2024/assets/1264/0eb36909-295f-4ed3-a03f-c2a48ea06297)
-![smile](https://git.arts.ac.uk/23014796/Responsive-Environments-Blog-2024/assets/1264/7dfcd277-bd5f-4497-b409-6aa273395263)
-![slap](https://git.arts.ac.uk/23014796/Responsive-Environments-Blog-2024/assets/1264/bd77ca73-acdf-4b25-ad54-2316ed4644af)
+
+![微笑](https://github.com/user-attachments/assets/238ace0f-b2d7-4ab5-8d0a-f79dbd0a7a3c)
+
+![扇巴掌背后 (2)](https://github.com/user-attachments/assets/f86e9d99-c8be-4cfc-a408-8a35243bd850)
+
 ![eat](https://git.arts.ac.uk/23014796/Responsive-Environments-Blog-2024/assets/1264/2b169c0a-6e10-4dfa-8331-300ac9b055cb)
+
 ![achievement](https://git.arts.ac.uk/23014796/Responsive-Environments-Blog-2024/assets/1264/4a3208d2-cfe5-4e9c-9e9d-5af770e075ab)
 ![finalscore](https://git.arts.ac.uk/23014796/Responsive-Environments-Blog-2024/assets/1264/7215b615-2871-4143-925f-5aae2155e953)
 
@@ -86,7 +90,7 @@ At Demo Day, we invited 6 players to participate in player testing. We aimed to 
 
 The test questions were designed around aspects such as "wedding anxiety index," "authentic emotional expression," and "emotional changes before and after the game." The questionnaire structure referred to **CEDAR** (a structured observation tool in user testing that includes Context, Expectations, Decisions, Actions, and Responses).
 
-For the **pre-test questionnaire**, in order to reduce the players’ testing burden and allow them to quickly enter the game, we adopted a **multiple-choice questionnaire** format.
+For the **pre-test questionnaire**, to reduce the players’ testing burden and allow them to quickly enter the game, we adopted a **multiple-choice questionnaire** format.
 
 For the **post-test questionnaire**, to better explore players’ authentic thoughts and their experiences of the game, we chose an **open-ended questionnaire** format.
 
