@@ -1,13 +1,15 @@
 # Wedding-Simulator
-*A game made by Peiyang Qin, Xueyi Wang, Xinru Xie, Haoqing Yan*
+*Made by Peiyang Qin, Xueyi Wang, Xinru Xie, Haoqing Yan*
 
-![游戏logo](https://github.com/user-attachments/assets/dab80e32-879c-41d0-9028-577fece7dac1)
+**Demo Video (Please Unmute)**
 
-
+https://github.com/user-attachments/assets/ec6a6abd-d4d1-4243-be29-1acdc3eee316
 
 ---
 
-## Project Title: Wedding Simulator
+## Wedding Simulator
+
+![游戏logo](https://github.com/user-attachments/assets/dab80e32-879c-41d0-9028-577fece7dac1)
 
 ### Project Description
 
@@ -45,31 +47,23 @@ Interviews, Game Design, Player tests, Documentations, Presentation
 
 ---
 
-### Project Images and Demo Video
-
-**Demo Video (Please Unmute)**
-
-
-https://github.com/user-attachments/assets/ec6a6abd-d4d1-4243-be29-1acdc3eee316
-
-
 ### Project Files and Assets
 
 [Google Drive: Unity Package and Game Package Ready to Play](https://drive.google.com/drive/folders/1964qhad8_6lLrK5bnlYVya_2SSICtfa4?usp=drive_link)
 
-There are too many files in the package, which makes it difficult to upload it to GitHub, so we use Google Drive as a replacement. There are the raw Unity package together with a ready-to-play package. 
 
 **Playing Gudie**:
 
 To enjoy the full version of the game, please open the PC Camera, link a Leap Motion 2, and connect an Xbox gamepad or Joy-Con L to your computer(to connect Joy-Con, you need to install BetterJoyForCemu). If you want to try the game without the mentioned hardware, you can only use the PC Camera for smile detection, and use keyboard and mouse to control the player (WASD for moving, mouse for views, E for interactions, Space for next, and B for slap).
 
-[Research Figma Board](https://www.figma.com/board/7OxuoWrRuigS35JgUnCIRj/%E5%A9%9A%E7%A4%BC%E7%84%A6%E8%99%91-%E7%94%A8%E6%88%B7%E8%B0%83%E7%A0%94?node-id=0-1&t=K1sH5q51nyxYS8l3-1)
 
 ---
 
 ### Playtest Results and Revision Plan
 
 **Test Process**
+
+[Research Figma Board](https://www.figma.com/board/7OxuoWrRuigS35JgUnCIRj/%E5%A9%9A%E7%A4%BC%E7%84%A6%E8%99%91-%E7%94%A8%E6%88%B7%E8%B0%83%E7%A0%94?node-id=0-1&t=K1sH5q51nyxYS8l3-1)
 
 At Demo Day, we invited 6 players to participate in player testing. We aimed to collect player feedback by having players fill out pre- and post-test comparative questionnaires. 
 
