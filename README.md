@@ -7,11 +7,11 @@ https://github.com/user-attachments/assets/ec6a6abd-d4d1-4243-be29-1acdc3eee316
 
 ---
 
-## Wedding Simulator
+## Summary
 
 ![游戏logo](https://github.com/user-attachments/assets/dab80e32-879c-41d0-9028-577fece7dac1)
 
-### Project Description
+### Game Description
 
 This project addresses wedding anxiety in China, where personal desires conflict with social expectations. Couples imagine weddings as intimate celebrations of happiness and life milestones, while traditions often transform them into public announcements—a set of requirements and a place for the relational network of the two people to be woven together, sometimes causing embarrassment and discomfort at a moment meant for joy.
 
