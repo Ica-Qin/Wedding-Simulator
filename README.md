@@ -1,4 +1,4 @@
-![logo](https://github.com/user-attachments/assets/dab80e32-879c-41d0-9028-577fece7dac1)
+
 
 # Wedding-Simulator
 *Made by Peiyang Qin, Xueyi Wang, Xinru Xie, Haoqing Yan*
