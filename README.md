@@ -1,3 +1,5 @@
+![logo](https://github.com/user-attachments/assets/dab80e32-879c-41d0-9028-577fece7dac1)
+
 # Wedding-Simulator
 *Made by Peiyang Qin, Xueyi Wang, Xinru Xie, Haoqing Yan*
 
@@ -9,7 +11,6 @@ https://github.com/user-attachments/assets/ec6a6abd-d4d1-4243-be29-1acdc3eee316
 
 ## Summary
 
-![游戏logo](https://github.com/user-attachments/assets/dab80e32-879c-41d0-9028-577fece7dac1)
 
 ### Game Description
 
@@ -65,9 +66,6 @@ To enjoy the full version of the game, please open the PC Camera, link a Leap Mo
 
 [Research Figma Board](https://www.figma.com/board/7OxuoWrRuigS35JgUnCIRj/%E5%A9%9A%E7%A4%BC%E7%84%A6%E8%99%91-%E7%94%A8%E6%88%B7%E8%B0%83%E7%A0%94?node-id=0-1&t=K1sH5q51nyxYS8l3-1)
 
-At Demo Day, we invited 6 players to participate in player testing. We aimed to collect player feedback by having players fill out pre- and post-test comparative questionnaires. 
-
-![term3 final_playtest](https://git.arts.ac.uk/23014973/Responsive-Environments-Blog-2024/assets/1292/5ea0d3f0-2c12-4902-8bb4-5d95c6fa4dcf)
 
 The test questions were designed around aspects such as "wedding anxiety index," "authentic emotional expression," and "emotional changes before and after the game." The questionnaire structure referred to **CEDAR** (a structured observation tool in user testing that includes Context, Expectations, Decisions, Actions, and Responses).
 
