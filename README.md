@@ -50,20 +50,7 @@ Interviews, Game Design, Player tests, Documentations, Presentation
 **Demo Video (Please Unmute)**
 
 
-
-**Images and GIF**
-
-![opening](https://git.arts.ac.uk/23014796/Responsive-Environments-Blog-2024/assets/1264/0eb36909-295f-4ed3-a03f-c2a48ea06297)
-
-![微笑](https://github.com/user-attachments/assets/238ace0f-b2d7-4ab5-8d0a-f79dbd0a7a3c)
-
-![扇巴掌背后 (2)](https://github.com/user-attachments/assets/f86e9d99-c8be-4cfc-a408-8a35243bd850)
-
-![eat](https://git.arts.ac.uk/23014796/Responsive-Environments-Blog-2024/assets/1264/2b169c0a-6e10-4dfa-8331-300ac9b055cb)
-
-![achievement](https://git.arts.ac.uk/23014796/Responsive-Environments-Blog-2024/assets/1264/4a3208d2-cfe5-4e9c-9e9d-5af770e075ab)
-![finalscore](https://git.arts.ac.uk/23014796/Responsive-Environments-Blog-2024/assets/1264/7215b615-2871-4143-925f-5aae2155e953)
-
+https://github.com/user-attachments/assets/ec6a6abd-d4d1-4243-be29-1acdc3eee316
 
 
 ### Project Files and Assets
